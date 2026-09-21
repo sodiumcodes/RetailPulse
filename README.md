@@ -205,15 +205,15 @@ All important cleaning decisions will be documented rather than silently removin
 * [x] Define cleaning rules
 * [x] Clean transaction data
 * [x] Validate cleaned dataset
-* [] Save processed dataset
+* [x] Save processed dataset
 
 ### Phase 3 — Feature Engineering
 
-* [ ] Create revenue metric
-* [ ] Create time-based features
-* [ ] Create order-level metrics
-* [ ] Create customer-level metrics
-* [ ] Create product-level metrics
+* [x] Create revenue metric
+* [x] Create time-based features
+* [x] Create order-level metrics
+* [x] Create customer-level metrics
+* [x] Create product-level metrics
 
 ### Phase 4 — Analysis
 
