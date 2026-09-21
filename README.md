@@ -202,10 +202,10 @@ All important cleaning decisions will be documented rather than silently removin
 
 ### Phase 2 — Data Cleaning
 
-* [ ] Define cleaning rules
-* [ ] Clean transaction data
-* [ ] Validate cleaned dataset
-* [ ] Save processed dataset
+* [x] Define cleaning rules
+* [x] Clean transaction data
+* [x] Validate cleaned dataset
+* [] Save processed dataset
 
 ### Phase 3 — Feature Engineering
 
