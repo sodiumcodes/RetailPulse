@@ -1,2 +1,3 @@
-
 data/processed/sales_features.csv
+data/processed/customer_summary.csv
+data/processed/product_summary.csv

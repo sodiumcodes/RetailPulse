@@ -191,14 +191,14 @@ All important cleaning decisions will be documented rather than silently removin
 
 ### Phase 1 — Data Understanding
 
-* [x]Load raw dataset
-* [x]Inspect dataset dimensions
-* [x]Inspect columns and data types
+* [x] Load raw dataset
+* [x] Inspect dataset dimensions
+* [x] Inspect columns and data types
 * [x] Analyze missing values
 * [x] Analyze duplicates
 * [x] Investigate unusual values
-* [x]Understand transaction/cancellation structure
-* [x]Document initial observations
+* [x] Understand transaction/cancellation structure
+* [x] Document initial observations
 
 ### Phase 2 — Data Cleaning
 
