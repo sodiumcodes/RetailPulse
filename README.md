@@ -217,11 +217,11 @@ All important cleaning decisions will be documented rather than silently removin
 
 ### Phase 4 — Analysis
 
-* [ ] Sales analysis
-* [ ] Product analysis
-* [ ] Customer analysis
-* [ ] Geographic analysis
-* [ ] Time-based analysis
+* [x] Sales analysis
+* [x] Product analysis
+* [x] Customer analysis
+* [x] Geographic analysis
+* [x] Time-based analysis
 
 ### Phase 5 — Dashboard
 
@@ -244,5 +244,3 @@ All important cleaning decisions will be documented rather than silently removin
 ## Author
 
 Naina Dugar
-
-This project was built as part of a hands-on data analytics portfolio to demonstrate practical skills in Python, data manipulation, exploratory analysis, visualization, and analytical storytelling.
