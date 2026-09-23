@@ -1,3 +1,18 @@
+## 🚀 Live Dashboard
+
+[View the Interactive Dashboard](https://ecommerce-sales-analytics-dashboard.streamlit.app/)
+
+## 📊 Dashboard Preview
+
+### Overview
+![Dashboard Overview](reports/figures/dashboard_overview.png)
+
+### Product & Customer Analysis
+![Product and Customer Analysis](reports/figures/product_customer_analysis.png)
+
+### Geographic Analysis & Key Findings
+![Geographic Analysis](reports/figures/geography_findings.png)
+
 # E-Commerce Sales & Customer Analytics
 
 A data analytics project focused on understanding sales performance, product behavior, customer purchasing patterns, geographical trends, and time-based sales patterns using transactional e-commerce data.
@@ -225,20 +240,17 @@ All important cleaning decisions will be documented rather than silently removin
 
 ### Phase 5 — Dashboard
 
-* [ ] Build Streamlit dashboard
-* [ ] Add KPIs
-* [ ] Add filters
-* [ ] Add interactive visualizations
-* [ ] Test dashboard
+* [x] Build Streamlit dashboard
+* [x] Add KPIs
+* [x] Add filters
+* [x] Add interactive visualizations
+* [x] Test dashboard
 
 ### Phase 6 — Finalization
 
-* [ ] Document key findings
-* [ ] Add dashboard screenshots
-* [ ] Improve README
-* [ ] Add project report
-* [ ] Prepare resume bullets
-* [ ] Prepare interview explanation
+* [x] Document key findings
+* [x] Add dashboard screenshots
+* [x] Add project report
 
 
 ## Author
