@@ -7,11 +7,11 @@
 ### Overview
 ![Dashboard Overview](reports/figures/dashboard_overview.png)
 
-### Product & Customer Analysis
-![Product and Customer Analysis](reports/figures/product_customer_analysis.png)
+### Sales Trends 
+![Sales Trends](reports/figures/sales_trends.png)
 
-### Geographic Analysis & Key Findings
-![Geographic Analysis](reports/figures/geography_findings.png)
+### Key Findings
+![Key Findings](reports/figures/key_findings.png)
 
 # E-Commerce Sales & Customer Analytics
 
