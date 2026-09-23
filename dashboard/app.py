@@ -9,7 +9,7 @@ from textwrap import dedent
 # ============================================================
 
 st.set_page_config(
-    page_title="E-Commerce Analytics",
+    page_title="RetailPulse",
     page_icon="🛒",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -232,7 +232,7 @@ month_order = [
 hero_html = dedent(
     """
     <div class="hero">
-        <div class="hero-title">🛒 E-Commerce Analytics</div>
+        <div class="hero-title">🛒 RetailPulse</div>
         <div class="hero-subtitle">
             Explore sales performance, customer behavior,
             product performance and geographic trends.

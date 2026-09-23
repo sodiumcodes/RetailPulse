@@ -13,9 +13,10 @@
 ### Key Findings
 ![Key Findings](reports/figures/key_findings.png)
 
-# E-Commerce Sales & Customer Analytics
+# RetailPulse
 
-A data analytics project focused on understanding sales performance, product behavior, customer purchasing patterns, geographical trends, and time-based sales patterns using transactional e-commerce data.
+
+An E-Commerce Sales & Customer Analytics focused project on understanding sales performance, product behavior, customer purchasing patterns, geographical trends, and time-based sales patterns using transactional e-commerce data.
 
 ## Project Overview
 
